@@ -8,4 +8,10 @@ const user = {
   age: 25,
 };
 
+function sayHi() {
+  console.log('hello from vars');
+}
+
+sayHi();
+
 export default user;

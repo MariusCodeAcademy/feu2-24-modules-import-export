@@ -9,6 +9,7 @@
 5. Sukurkite funkciją, kuri paims stringą ir grąžins jį apverstą mažosiomis. T.y. "Petras" -> "sartep"
 6. Parašykite funkciją, kuri priims minutes (number) ir grąžins sekundes (string: "x seconds").
 Pvz: fn(3) => "180 seconds".
+7. Organizuojate vestuves - pasiimkite informaciją iš "https://boiling-reaches-93648.herokuapp.com/week-3/wedding" ir atvaizduokite lentelėje: vardą, plusOne ir attending. Parašykite taip, kad plusOne ir attending būtų ne true/false, bet "+" arba "-".
 
 ## leteles pratimas
 
